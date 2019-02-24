@@ -28,6 +28,7 @@ function reverseString(str) {
 }
 
 function reverseString(str) {
+    // giota atoig
     let reversed = '';
     let i;
 
